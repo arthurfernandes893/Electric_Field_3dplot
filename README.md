@@ -4,6 +4,3 @@
 ## Bibliotecas Utilizadas:
 - MatPlotLib
 - Numpy
-***
-## Resultado:
-![Image]()
